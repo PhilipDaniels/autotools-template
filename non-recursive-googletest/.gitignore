@@ -11,6 +11,7 @@
 .libs
 *.stackdump
 Makefile
+!/google-test/make/Makefile
 Makefile.in
 TAGS
 aclocal.m4
@@ -35,4 +36,5 @@ autom4te.cache/
 # A leading slash means "relative to the root only".
 /debug/**
 !/debug/debugconfigure
+
 
